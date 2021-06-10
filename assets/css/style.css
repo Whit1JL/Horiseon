@@ -70,6 +70,7 @@ p {
     margin-left: 25px;
 }
 
+/* Gave social media marketing an id to match other services */
 main {
     width: 75%;
     display: inline-block;
@@ -103,6 +104,7 @@ aside {
     max-width: 150px;
 }
 
+/* Minimized different services to make it easier to read */
 .services {
     margin-bottom: 20px;
     padding: 50px;
